@@ -12,7 +12,7 @@
 
 			.login-page {
 			  width: 360px;
-			  padding: 8% 0 0;
+			  padding: 10% 0 0;
 			  margin: auto;
 			}
 			.form {
